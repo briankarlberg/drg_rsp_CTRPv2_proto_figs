@@ -14,4 +14,8 @@ update manuscript.
 local devel dir:  
 '/Users/karlberb/work/drug_response/drg_rsp_v3/linear_regression'.  
 
+write / eval read tuples in fig files; option to implement json.  
+
+
+
 
