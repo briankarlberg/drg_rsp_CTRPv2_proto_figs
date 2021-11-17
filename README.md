@@ -16,6 +16,8 @@ local devel dir:
 
 write / eval read tuples in fig files; option to implement json.  
 
+check-in histogram notebook (raw response values by compound)   
+
 
 
 
