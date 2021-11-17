@@ -8,3 +8,5 @@ create archive dir.
 create both train and test version of plot.   
 note: regression on coding genes only.  
 
+make google doc for summary figs.  
+update manuscript.  
