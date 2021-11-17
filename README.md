@@ -10,3 +10,8 @@ note: regression on coding genes only.
 
 make google doc for summary figs.  
 update manuscript.  
+
+local devel dir:  
+'/Users/karlberb/work/drug_response/drg_rsp_v3/linear_regression'.  
+
+
